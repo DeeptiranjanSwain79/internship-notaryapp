@@ -1,0 +1,140 @@
+{
+	"name": "DEPTIRANJAN SWAIN",
+	"details": "Enthusiastic and Passionate CODER with knowledge in coding and design. Proficient in JAVA, Advanced Java, HTML, CSS, Bootstrap, JavaScript,MYSQL, Mongo DB and MERN Stack Development. Ability to learn new softwares and technologies quickly. Capability to work in teams by providing valuable support. Looking forward to work as a FULL STACK DEVELOPER.",
+	"avatar": {
+		"public_id": "profile1",
+		"url": "https://igimages.gumlet.io/telugu/home/alluarjun06022023_2c.jpg?w=900&dpr=1.3"
+	},
+	"company": "Microsoft",
+	"phone": {
+		"work": "8917206636",
+		"mobile": "8917206636"
+	},
+	"email": {
+		"work": "deeptiranjanswain777@gmail.com"
+	},
+	"address": {
+		"billing": {
+			"Address1": "Balighat",
+			"city": "Puri",
+			"state": "Odisha",
+			"zip_code": "752002"
+		},
+		"shipping": {
+			"Address1": "Balighat",
+			"city": "Puri",
+			"state": "Odisha",
+			"zip_code": "752002"
+		}
+	},
+	"product_info": [
+		{
+			"description": "Samsumg A22",
+			"amount": 18500
+		},
+		{
+			"description": "HP 4GB 1TB",
+			"amount": 35500
+		}
+	],
+	"spoken_languages": [
+		{
+			"language": "Odia"
+		},
+		{
+			"language": "Hindi"
+		},
+		{
+			"language": "English"
+		}
+	],
+	"websites": [
+		{
+			"site": "https://hlott-beta.netlify.app/"
+		},
+		{
+			"site": "https://hlrecipe.netlify.app/"
+		}
+	],
+	"custom_fields": [
+		{
+			"title": "field1",
+			"description": "description1"
+		},
+		{
+			"title": "field2",
+			"description": "description2"
+		}
+	],
+	"document_links": [
+		{
+			"doc_title": "document1",
+			"link": "link1"
+		},
+		{
+			"doc_title": "document2",
+			"link": "link2"
+		}
+	],
+	"state_licenses": [
+		{
+			"state": "Odisha",
+			"comm": "7799",
+			"expiration": "2024-05-02"
+		},
+		{
+			"state": "Telengana",
+			"comm": "9779",
+			"expiration": "2024-05-02"
+		}
+	],
+	"insurances": [
+		{
+			"insurance": "NA"
+		}
+	],
+	"backgrounds": [
+		{
+			"provider": "Backgrounds Online",
+			"conducted": "2021-05-02",
+			"expiration": "2024-05-02",
+			"ref": "1790615"
+		},
+		{
+			"provider": "Fidelity Online",
+			"conducted": "2021-05-02",
+			"expiration": "2024-05-02",
+			"ref": "1790605"
+		}
+	],
+	"capabilities": [
+		{
+			"capability": "APP DEVELOPING"
+		},
+		{
+			"capability": "Verilog Designing"
+		},
+		{
+			"capability": "nalog Electronics"
+		},
+		{
+			"capability": "WEB DEVELOPING"
+		}
+	],
+	"availability": {
+		"days": {
+			"mon": true,
+			"tue": true,
+			"wed": true,
+			"thu": true,
+			"fri": false,
+			"sat": true,
+			"sun": false
+		},
+		"shift": {
+			"AM": true,
+			"PM": false
+		}
+	},
+	"password": "77779999"
+}
